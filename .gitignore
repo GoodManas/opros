@@ -1,0 +1,52 @@
+# Папка PyCharm (IDE)
+.idea/
+*.iml
+
+# Виртуальное окружение
+venv/
+env/
+.env/
+ENV/
+myenv/
+virtualenv/
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Базы данных
+*.db
+*.sqlite3
+*.sqlite
+
+# Файлы конфигурации
+*.ini
+*.cfg
+*.conf
+config.py  # если будешь хранить пароли
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Системные файлы Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы логов
+*.log
+logs/
+
+# Архивы
+*.zip
+*.rar
+*.tar.gz
+
+# Временные файлы
+*.tmp
+*.temp
+*~
